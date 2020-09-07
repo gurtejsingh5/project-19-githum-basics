@@ -1,1 +1,2 @@
-# project-19-githum-basics
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
